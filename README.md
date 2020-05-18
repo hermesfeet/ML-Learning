@@ -1,5 +1,5 @@
 # ML-Learning
-Notebooks and code for ML experiments
+Notebooks and code for ML experiments for "old school" pre-deep learning or reinforcement learning ML.
 
 Just some iPython notebooks and test code for TensorFlow, Keras, and other tools
 
