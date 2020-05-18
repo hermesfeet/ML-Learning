@@ -9,3 +9,5 @@ Just some iPython notebooks and test code for TensorFlow, Keras, and other tools
 4. LINEAR REGRESSION - just the basics
 5. POLYNOMIAL REGRESSION + GENERALIZED LINEAR MODELS - getting spicy with polynomial models and Lasso regression
 6. LOGISTIC AND SOFTMAX REGRESSION:  Binary and multi-class classifiers using the Iris flower dataset
+7. SUPPORT VECTOR MACHINES:  Building roads and lanes for classification, regression, and outlier detection
+8. DECISION TREES:  Growing trees for classification and regression (unstable though)
